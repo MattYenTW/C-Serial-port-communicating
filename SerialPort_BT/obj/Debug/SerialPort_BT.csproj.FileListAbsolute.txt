@@ -1,0 +1,13 @@
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\bin\Debug\SerialPort_BT.exe.config
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\bin\Debug\SerialPort_BT.exe
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\bin\Debug\SerialPort_BT.pdb
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.csprojAssemblyReference.cache
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.Form1.resources
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.Properties.Resources.resources
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.csproj.GenerateResource.cache
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.csproj.CoreCompileInputs.cache
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.exe
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.pdb
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Source code\VS\CsBook_temp\SerialPort\SerialPort_BT\SerialPort_BT\obj\Debug\SerialPort_BT.csproj.CopyComplete
